@@ -1,1 +1,1 @@
-Hello and Welcome to Home Trax Git Hub Place.
+Hello and Welcome to Home Trax Git Hub Place. This is an application which allows communication between buyers and agents.
